@@ -39,7 +39,7 @@ City Metro is a comprehensive web application designed to facilitate metro trave
 
 1. **Clone the Repository**
    ```bash
-   ```](https://github.com/gokuldeore21/City-Metro)
+   (https://github.com/gokuldeore21/City-Metro)
    
 
 
